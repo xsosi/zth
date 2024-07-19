@@ -15,4 +15,4 @@ EXPOSE 8085
 
 ENV PATH="/home/zelz/bin:$PATH"
 
-CMD bash start
+CMD bash start.sh
